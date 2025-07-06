@@ -1,4 +1,4 @@
 # ayush-s-demo
 First Git repository
 <br>
-Author--Ayush Sisodia
+Author--Ayush Sisodia(Ayush chauhan)
